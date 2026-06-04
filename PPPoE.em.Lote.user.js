@@ -8,8 +8,8 @@
 // @run-at       document-idle
 // @grant        GM_registerMenuCommand
 // @grant        GM_xmlhttpRequest
-// @downloadURL
-// @updateURL
+// @downloadURL  https://github.com/lucaslucianrm/userscriptsrm/raw/refs/heads/main/PPPoE.em.Lote.user.js
+// @updateURL    https://github.com/lucaslucianrm/userscriptsrm/raw/refs/heads/main/PPPoE.em.Lote.user.js
 // ==/UserScript==
 
 (function () {
