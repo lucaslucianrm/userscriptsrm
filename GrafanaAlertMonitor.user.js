@@ -10,6 +10,8 @@
 // @grant        GM_registerMenuCommand
 // @grant        GM_xmlhttpRequest
 // @icon         https://grafana.rolimnet.com/public/img/fav32.png
+// @downloadURL  https://github.com/lucaslucianrm/userscriptsrm/raw/refs/heads/main/GrafanaAlertMonitor.user.js
+// @updateURL    https://github.com/lucaslucianrm/userscriptsrm/raw/refs/heads/main/GrafanaAlertMonitor.user.js
 // ==/UserScript==
 
 (function () {
