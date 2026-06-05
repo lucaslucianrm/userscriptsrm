@@ -33,7 +33,7 @@
     if (!document.getElementById('pppoe-style')) {
         adicionarEstilos();
     }
-    GM_registerMenuCommand('Consulta PPPoE', abrirJanela);
+    GM_registerMenuCommand('Consulta PPPoE Lote Geral', abrirJanela);
     setTimeout(adicionarMenuIXC, 1000);
     setInterval(adicionarMenuIXC, 3000);
 
@@ -51,7 +51,7 @@
             <div id="pppoe-box">
 
                 <div id="pppoe-header">
-                    <span>Consulta PPPoE em Lote - v${VERSAO}</span>
+                    <span>Consulta PPPoE em Lote Geral - v${VERSAO}</span>
                     <button id="pppoe-fechar">✖</button>
                 </div>
 
@@ -178,7 +178,7 @@
 
             <div class="submenu_title">
                 <a style="cursor:pointer;">
-                    Consulta PPPoE em Lote
+                    Consulta PPPoE em Lote Geral
                 </a>
             </div>
 
